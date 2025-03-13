@@ -1,4 +1,4 @@
-# Django_Todo_App_with_Authentication_and_Authorization
+# Django_Todo_App_with_Crud
 
 A project built with Django web framework and Bootstrap
 
@@ -38,7 +38,7 @@ A project built with Django web framework and Bootstrap
 
 ### To get started with this project
 
-* Clone the repository: git clone https://github.com/MoustafaShaaban/Django_Todo_App_with_Authentication_and_Authorization.git
+* Clone the repository: git clone (https://github.com/NLugner2025/Django_Todo_App_crud.git)
 
 * Change directory to backend ``` cd backend ```
 
